@@ -1,0 +1,4 @@
+[12-Aug-2020 01:23:10 UTC] PHP Notice:  Undefined variable: pagelayer in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pagelayer/js/givejs.php on line 109
+[12-Aug-2020 01:23:10 UTC] PHP Notice:  Trying to get property 'fonts' of non-object in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pagelayer/js/givejs.php on line 109
+[12-Aug-2020 01:52:39 UTC] PHP Notice:  Undefined variable: pagelayer in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pagelayer/js/givejs.php on line 109
+[12-Aug-2020 01:52:39 UTC] PHP Notice:  Trying to get property 'fonts' of non-object in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pagelayer/js/givejs.php on line 109

@@ -1,0 +1,19 @@
+[12-Aug-2020 01:22:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pagelayer/main/settings.php on line 432
+[12-Aug-2020 02:50:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/iamglenn/cookiery.iamglenn.com/wp-content/themes/construct-ex/functions.php on line 8
+[12-Aug-2020 02:50:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/iamglenn/cookiery.iamglenn.com/wp-content/themes/construct-ex/functions.php on line 8
+[12-Aug-2020 02:50:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/iamglenn/cookiery.iamglenn.com/wp-content/themes/construct-ex/functions.php on line 8
+[12-Aug-2020 02:50:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/iamglenn/cookiery.iamglenn.com/wp-content/themes/construct-ex/functions.php on line 8
+[12-Aug-2020 03:03:29 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:04:33 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:04:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:12 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Illegal string offset 'options' in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
+[12-Aug-2020 03:05:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/iamglenn/cookiery.iamglenn.com/wp-content/plugins/pearl-header-builder/includes/helpers.php on line 133
